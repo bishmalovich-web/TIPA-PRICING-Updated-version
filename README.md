@@ -1,31 +1,20 @@
-# TIPA Film Pricing App
+# TIPA Film Pricing App — v6 Production
 
-Files in this package:
+Upload all files to the GitHub repository root:
+- index.html
+- manifest.json
+- service-worker.js
+- icon-192.png
+- icon-512.png
+- README.md
 
-- `index.html` — the pricing app generated from `Updated Model_16.06.2026_3 copilot.xlsx`.
-- `tipa-pricing-qr.png` — QR code for the GitHub Pages URL used before: https://bishmalovich-web.github.io/tipa-pricing/
-- `README.md` — this guide.
+This version includes:
+- One main calculator
+- + Compare button that opens one comparison calculator only when needed
+- Installable PWA app support
+- QR code
+- Color / black & white view
+- Stable manual calculation: type full values, then press Calculate price
 
-## What the app includes
-
-- Film Type dropdown from the Excel helper/data.
-- Width, thickness, density, weight, length, hourly rate, shipping destination, margin.
-- Input Mode from Excel rows 20-21: `By Weight` or `By Length`.
-- Sell Price in EUR, matching the Excel logic from row 16.
-- Sell Price in USD, using exchange rate `1.16` from the Excel helper sheet.
-- Mobile-friendly design and QR code.
-
-## Upload to GitHub Pages
-
-1. Open your GitHub repository, for example `tipa-pricing`.
-2. Upload `index.html`, `tipa-pricing-qr.png`, and this `README.md` to the root folder.
-3. Go to **Settings → Pages**.
-4. Select **Deploy from a branch**.
-5. Select **Branch: main** and **Folder: / root**.
-6. Save.
-7. Open the GitHub Pages link.
-8. Scan the QR code from your phone.
-
-## Important
-
-GitHub Pages is static. If the Excel file changes, regenerate and upload a new `index.html` so the app matches the updated Excel.
+Open after upload:
+https://bishmalovich-web.github.io/TIPA-PRICING-Updated-version/?v=pwa-one-plus-compare-v6
