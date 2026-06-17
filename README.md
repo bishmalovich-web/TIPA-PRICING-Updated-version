@@ -1,8 +1,6 @@
-# TIPA Film Pricing App — Installable PWA
+# TIPA Film Pricing App — Fixed Input Version
 
-Source Excel: Updated Model_18.06.2026.xlsx
-
-Upload ALL files in this package to your GitHub repository root:
+Upload ALL files to the GitHub repository root:
 - index.html
 - manifest.json
 - service-worker.js
@@ -10,8 +8,9 @@ Upload ALL files in this package to your GitHub repository root:
 - icon-512.png
 - README.md
 
-After GitHub Pages is live, open the site and install it:
-- Android/Chrome/Edge: use the Install App button or browser install option.
-- iPhone/Safari: use Share → Add to Home Screen.
+Fix included:
+- Numeric fields no longer re-render the full calculator on every digit.
+- The keyboard/input stays open while typing weight, width, margin, etc.
+- Results update live without interrupting typing.
 
-Includes updated 18.06.2026 model data, Film Calculator, optional comparison calculator, Color/B&W view selector, app icon, standalone display mode, and basic offline caching.
+After uploading, open the app and do CTRL+SHIFT+R once. If installed on phone, remove the old home-screen app and add it again if it still shows the old cached version.
