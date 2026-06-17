@@ -1,0 +1,25 @@
+{
+  "name": "TIPA Film Pricing App",
+  "short_name": "TIPA Pricing",
+  "description": "Professional film pricing calculator with comparison mode.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5ffff",
+  "theme_color": "#13b8cf",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
