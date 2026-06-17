@@ -1,7 +1,7 @@
 {
   "name": "TIPA Film Pricing App",
   "short_name": "TIPA Pricing",
-  "start_url": "./index.html?v=manual-fix-3",
+  "start_url": "./index.html?v=clean-qr-v4",
   "scope": "./",
   "display": "standalone",
   "background_color": "#f5ffff",
