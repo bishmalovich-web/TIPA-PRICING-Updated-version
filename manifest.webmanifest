@@ -3,8 +3,8 @@
   "short_name": "TIPA Pricing",
   "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#edfbfe",
-  "theme_color": "#11bfd7",
+  "background_color": "#f5fbfd",
+  "theme_color": "#10bcd4",
   "icons": [
     {
       "src": "icon-192.png",
