@@ -1,4 +1,4 @@
-# TIPA Film Pricing App — v6 Production
+# TIPA Film Pricing App — v7 Film Cost + Printing Update
 
 Upload all files to the GitHub repository root:
 - index.html
@@ -8,13 +8,14 @@ Upload all files to the GitHub repository root:
 - icon-512.png
 - README.md
 
-This version includes:
-- One main calculator
-- + Compare button that opens one comparison calculator only when needed
-- Installable PWA app support
-- QR code
-- Color / black & white view
-- Stable manual calculation: type full values, then press Calculate price
+This version updates:
+- Film raw material costs now come from the Film Cost sheet / Sheet1 values.
+- Printing, lamination, and slitting add-ons are included from Lmntn & Prntng- Marma & Bastin.
+- One main calculator only.
+- + Compare opens only one comparison calculator when needed.
+- Installable PWA app support.
+- QR code.
+- Stable manual calculation.
 
 Open after upload:
-https://bishmalovich-web.github.io/TIPA-PRICING-Updated-version/?v=pwa-one-plus-compare-v6
+https://bishmalovich-web.github.io/TIPA-PRICING-Updated-version/?v=pwa-film-cost-printing-v7

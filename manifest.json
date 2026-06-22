@@ -1,8 +1,8 @@
 {
   "name": "TIPA Film Pricing App",
   "short_name": "TIPA Pricing",
-  "description": "Installable TIPA film pricing calculator with optional comparison.",
-  "start_url": "./index.html?v=pwa-one-plus-compare-v6",
+  "description": "Installable TIPA film pricing calculator using Film Cost sheet and printing rates.",
+  "start_url": "./index.html?v=pwa-film-cost-printing-v7",
   "scope": "./",
   "display": "standalone",
   "background_color": "#eefdff",
