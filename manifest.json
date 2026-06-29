@@ -1,8 +1,8 @@
 {
   "name": "TIPA Film Pricing App",
   "short_name": "TIPA Pricing",
-  "description": "TIPA pricing app with password login.",
-  "start_url": "./index.html?v=pwa-password-tipa2026-v9",
+  "description": "TIPA pricing app with forced password login.",
+  "start_url": "./index.html?v=pwa-password-forced-tipa2026-v10",
   "scope": "./",
   "display": "standalone",
   "background_color": "#eefdff",
